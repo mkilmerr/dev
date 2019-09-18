@@ -45,12 +45,14 @@ body {
     letter-spacing: 1px;
     height: 100%;
     font-family: 'Poppins', sans-serif;
+    background-color:#1B1C1E
     
 }
 
 html,
 body {
-    height: 100%
+    height: 100%;
+    
 }
 
 ::selection {
@@ -611,6 +613,7 @@ ul.portfolio li.active {
 
 .testimonial-section {
     background: #F9F9F9;
+    
 }
 
 .testimonial-carousel-list {
